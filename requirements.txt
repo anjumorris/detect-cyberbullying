@@ -1,2 +1,7 @@
 huggingface
 transformers[torch]
+datasets
+evaluate
+ipywidgets
+datasets
+scikit-learn
